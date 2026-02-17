@@ -80,7 +80,7 @@ The models were evaluated using weighted F1-scores across the four targets. Whil
 
 ## Repository Contents
 
-- `Multi-Output Product Categorization.pdf` – Full technical report  
+- `Multi-Output Product Categorization Report.pdf` – Full technical report  
 - `Multi-Output Product Categorization Notebook.ipynb` – Implementation notebook  
 - `README.md`
 ---
